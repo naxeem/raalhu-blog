@@ -6,7 +6,7 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.3",
     "autoprefixer": "^10.2.6",
-    "cssnano": "^3.10.0",
+    "cssnano": "^5.0.6",
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.0.4"
   },
