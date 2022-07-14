@@ -1,11 +1,7 @@
 module.exports = {
+  content: ["./*.html"],
   theme: {
-    extend: {
-      inset: {
-        '2': '2px',
-      }
-    }
+    extend: {},
   },
-  variants: {},
-  plugins: []
+  plugins: [],
 }
